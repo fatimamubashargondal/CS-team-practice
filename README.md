@@ -10,8 +10,5 @@ Welcome to the CS IEEE team repository! This repository is designed just for pra
    git clone <your-forked-repo-url>
    
 3. Edit the Contributors.txt file by adding your name to the list :
-
-   - Your name: Dawood Khan, 
-
-5. Commit and push your changes.
-6. Submit a pull request to share your updates.
+4. Commit and push your changes.
+5.  Submit a pull request to share your updates.
