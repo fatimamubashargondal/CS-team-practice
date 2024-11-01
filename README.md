@@ -11,9 +11,8 @@ Welcome to the CS IEEE team repository! This repository is designed just for pra
    
 3. Edit this README.md file by adding:
 
-   - Your name:
-   - Your favorite programming language:
-   - A short message about what you’re learning or excited about in tech:
+   - Your name: Dawood Khan
+   - Your favorite programming language: Python
 
 5. Commit and push your changes.
 6. Submit a pull request to share your updates.
