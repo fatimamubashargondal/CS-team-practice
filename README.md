@@ -9,7 +9,7 @@ Welcome to the CS IEEE team repository! This repository is designed just for pra
    ```bash
    git clone <your-forked-repo-url>
    
-3. Edit this README.md file by adding:
+3. Edit the Contributors.txt file by adding your name to the list :
 
    - Your name: Dawood Khan, 
 
